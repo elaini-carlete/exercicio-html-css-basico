@@ -1,14 +1,14 @@
 # 3 exercícios de HTML e CSS BÁSICO. 
-- realizado no curso DevQuest.
+- Realizado no curso DevQuest.
 
-# 1: lista de alimentos saudáveis.
+# 1: Lista de alimentos saudáveis.
 -> Linguagem utilizada:
 - HTML 
 
 -> Objetivo:
 - Listar alimentos saudáveis, o preço de cada um e o total de todos juntos.
 
-# 2: imagem com link externo.
+# 2: Imagem com link externo.
 -> Linguagem utilizada:
 - HTML 
 
@@ -21,4 +21,4 @@
 - CSS 
 
 -> Objetivo:
-- Criar 2 parágrafos, um com a cor mais clara e outro com a cor mais escura (a cor foi colocado no CSS) e com a utilização do margin e do padding. 
+- Criar 2 parágrafos, um com a cor mais clara e outro com a cor mais escura e com a utilização do margin e do padding. 
