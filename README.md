@@ -22,3 +22,6 @@
 
 -> Objetivo
 - Criar 2 parágrafos, um com a cor mais clara e outro com a cor mais escura e com a utilização do margin e do padding
+
+### Layout 
+<img src="./design/layout-html-css-basico.png" alt="layout dos 3 exercícios">
